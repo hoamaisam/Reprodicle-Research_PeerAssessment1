@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1"
+title: "PA1_template.md"
 author: "HMS"
 date: "2026-03-24"
 output: html_document
